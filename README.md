@@ -4,7 +4,8 @@
 
 An LED Widget for the PyQt4/5 Framework
 
-![QLed Test Screenshot](https://raw.githubusercontent.com/jazzycamel/QLed/master/QLed_test_screenshot.png)
+![QLed On](led_on.png)
+![QLed Off](led_off.png)
 
 ## Installation
 ### pip
